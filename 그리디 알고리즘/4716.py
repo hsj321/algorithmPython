@@ -32,9 +32,6 @@ while(True):
             else:
                 i[0]-=b
                 time+=bL*b
-
-
-                
                 b = 0
     for i in arr:
         count = i[0]
